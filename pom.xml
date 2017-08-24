@@ -11,6 +11,7 @@
 	<!-- 项目属性 -->
 	<properties>
 
+		<!-- 线上访问地址：http://www.egeoscience.com.cn/scp_xls -->
 		<!-- environment setting -->
 		<jdk.version>1.6</jdk.version>
 		<tomcat.version>2.2</tomcat.version>
